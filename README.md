@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Suyash   
+# Hi there! 👋 I'm [Your Name]  
 
 Welcome to my GitHub profile! I'm passionate about [your interests, e.g., software development, machine learning, and fintech].  
 I'm currently a [your role, e.g., student, developer] and love building [your focus area, e.g., innovative web applications and solving real-world problems].
@@ -13,13 +13,29 @@ I'm currently a [your role, e.g., student, developer] and love building [your fo
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- **Programming Languages:**  
+  - 🟦 Java  
+  - 🐍 Python  
+  - 🌐 JavaScript (ES6+)  
+
+- **Frontend Development:**  
+  - ⚛️ React  
+  - 🎨 HTML5, CSS3  
+
+- **Backend Development:**  
+  - 🌳 Node.js  
+  - 🌐 Express.js  
+
+- **Databases:**  
+  - 🍃 MongoDB  
+  - 🐘 PostgreSQL  
+
+- **Other Tools:**  
+  - 🛠️ Git & GitHub  
+  - 🖥️ Visual Studio Code  
+  - 🐋 Docker  
 
 ---
 
@@ -48,8 +64,8 @@ _A short description of your project._
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 ---
